@@ -17,3 +17,4 @@ axis(side=1, at=seq(0,3000, 1000), labels=seq(0,6, 2))
 axis(side=2, at=seq(0,1200, 200), labels=seq(0,1200, 200))
 
 dev.off()
+
